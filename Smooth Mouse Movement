@@ -1,3 +1,5 @@
+-- ProtoSmasher Only
+
 -- Settings --
 
 _G.X = 99 -- X coordinate on screen --
